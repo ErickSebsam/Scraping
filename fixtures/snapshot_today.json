@@ -1,0 +1,144 @@
+{
+  "snapshot_id": "snap_2026-04-27",
+  "captured_at": "2026-04-27T08:00:00Z",
+  "source": "books.toscrape.com",
+  "worker_version": "1.0.0",
+  "products": [
+    {
+      "sku": "BTS-0001",
+      "title": "A Light in the Attic",
+      "price": 51.77,
+      "currency": "GBP",
+      "category": "Poetry",
+      "in_stock": true,
+      "stock_count": 22,
+      "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+      "_note_for_students": "Sin cambios — el motor NO debe marcar este producto."
+    },
+    {
+      "sku": "BTS-0002",
+      "title": "Tipping the Velvet",
+      "price": 39.99,
+      "currency": "GBP",
+      "category": "Historical Fiction",
+      "in_stock": true,
+      "stock_count": 20,
+      "url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+      "_note_for_students": "Bajada de precio fuerte (53.74 -> 39.99, ~25.6%). Debe marcarse como ALTA PRIORIDAD."
+    },
+    {
+      "sku": "BTS-0003",
+      "title": "Soumission",
+      "price": 51.50,
+      "currency": "GBP",
+      "category": "Fiction",
+      "in_stock": true,
+      "stock_count": 20,
+      "url": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+      "_note_for_students": "Subida menor (50.10 -> 51.50, ~2.8%). Cambio detectado pero baja prioridad."
+    },
+    {
+      "sku": "BTS-0004",
+      "title": "Sharp Objects",
+      "price": 47.82,
+      "currency": "GBP",
+      "category": "Mystery",
+      "in_stock": false,
+      "stock_count": 0,
+      "url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+      "_note_for_students": "Cambio de disponibilidad: estaba in_stock=true, ahora false."
+    },
+    {
+      "sku": "BTS-0005",
+      "title": "Sapiens: A Brief History of Humankind",
+      "price": 54.23,
+      "currency": "GBP",
+      "category": "History",
+      "in_stock": true,
+      "stock_count": 20,
+      "url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html"
+    },
+    {
+      "sku": "BTS-0006",
+      "title": "The Requiem Red",
+      "price": 22.65,
+      "currency": "GBP",
+      "category": "Young Adult",
+      "in_stock": true,
+      "stock_count": 19,
+      "url": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html"
+    },
+    {
+      "sku": "BTS-0007",
+      "title": "The Dirty Little Secrets of Getting Your Dream Job",
+      "price": 33.34,
+      "currency": "GBP",
+      "category": "Business",
+      "in_stock": true,
+      "stock_count": 19,
+      "url": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html"
+    },
+    {
+      "sku": "BTS-0008",
+      "title": "The Coming Woman",
+      "price": 17.93,
+      "currency": "GBP",
+      "category": "Historical Fiction",
+      "in_stock": true,
+      "stock_count": 19,
+      "url": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html"
+    },
+    {
+      "sku": "BTS-0010",
+      "title": "The Black Maria",
+      "price": 52.15,
+      "currency": "GBP",
+      "category": "Poetry",
+      "in_stock": true,
+      "stock_count": 19,
+      "url": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html"
+    },
+    {
+      "sku": "BTS-0011",
+      "title": "Starving Hearts",
+      "price": 13.99,
+      "currency": "GBP",
+      "category": "Romance",
+      "in_stock": true,
+      "stock_count": 19,
+      "url": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html"
+    },
+    {
+      "sku": "BTS-0012",
+      "title": "Shakespeare's Sonnets",
+      "price": 20.66,
+      "currency": "GBP",
+      "category": "Poetry",
+      "in_stock": true,
+      "stock_count": 19,
+      "url": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html"
+    },
+    {
+      "sku": "BTS-0013",
+      "title": "Set Me Free",
+      "price": 17.46,
+      "currency": "GBP",
+      "category": "Young Adult",
+      "in_stock": true,
+      "stock_count": 19,
+      "url": "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
+      "_note_for_students": "Producto NUEVO — no estaba en el snapshot anterior."
+    },
+    {
+      "sku": "BTS-0014",
+      "title": "Scott Pilgrim's Precious Little Life",
+      "price": 52.29,
+      "currency": "GBP",
+      "category": "Sequential Art",
+      "in_stock": true,
+      "stock_count": 19,
+      "url": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+      "_note_for_students": "Producto NUEVO — no estaba en el snapshot anterior."
+    }
+  ]
+}
